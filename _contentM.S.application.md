@@ -24,4 +24,3 @@ Letters of recommendation: 3 Letters of recommendation should be obtained from c
 Standardized Test Scores: The GRE is not required. International students are required to submit a TOEFL score (minimum score of 88 iBT or 575 PBT)
 International applicants should consult the page at http://www.temple.edu/grad/admissions/international.htm to make sure that they meet the requirements for degree equivalency listed there.
 All completed applications are reviewed. If you do not meet one or more of the admission requirements (e.g., lacking a lab course; a GRE score below the minimum) your application, if complete, will be reviewed.
-
